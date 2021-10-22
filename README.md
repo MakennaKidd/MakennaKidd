@@ -4,7 +4,7 @@
 
 - :ringed_planet: I am Makenna Kidd, a Junior at Arizona State University. I am pursuing my Bachelors degree in **Computer Science** and I aim to graduate in May of 2023.
 
-- :floppy_disk:**What am I working on?:** Although I have learned a handful of languages already such as: Assembly, C/C++, Java, Matlab, Prolog, and Scheme... I am currently diving further into C/C++, Python, and Java development within my studies. With my classes, I am currently learning in depth algorithmic logistics in C++, hashing/encyrption/decryption in Python, team development within Java, and project management styles with tools such as Jira and Astah. Being fairly close to my graduation date, I am quite eager to finsih my schooling and showcase what I've learned in my future career. 
+- :floppy_disk:**What am I working on?:** Although I have learned a handful of languages already such as: Assembly, C/C++, Java, Matlab, Prolog, and Scheme... I am currently diving further into C/C++, Python, and Java development within my studies. With my classes, I am currently learning in depth algorithmic logistics in C++, hashing/encryption/decryption in Python, team development within Java, and project management styles with tools such as Jira and Astah. Being fairly close to my graduation date, I am quite eager to finsih my schooling and showcase what I've learned in my future career. 
  
 ### :medal_sports: Achievements 
 
