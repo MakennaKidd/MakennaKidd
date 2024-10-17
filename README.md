@@ -2,20 +2,24 @@
  
 ### About Me :cherry_blossom:
 
-- :ringed_planet: I am Makenna Kidd, a Senior at Arizona State University. I am pursuing my Bachelors degree in **Business Information Security** and I will be graduating in December 2024. Please check out my [LinkedIn](https://www.linkedin.com/in/makennakidd/) see my work experience and qualifications.
+- :ringed_planet: My name is Makenna Kidd, a Business Analyst and a recent graduate from Arizona State University. I obtained a Bachelor of Arts in **Business Information Security** in August of 2024. Please check out my [LinkedIn](https://www.linkedin.com/in/makennakidd/) and repositories to see some of my projects, qualifications, and contributions.
 
-- :floppy_disk: **What am I working on?:** Although I have learned a handful of languages already such as: Python, SQL, Java, Assembly, C/C++, Prolog, and Scheme... I am currently delving into Python, SQL, Cybersecurity, Computer Forensics, and Management within my studies. Being fairly close to my graduation date, I am quite eager to finish my schooling and showcase what I've learned in my future role. 
- 
+- :floppy_disk: **What am I working on?:** My technical foundation spans multiple programming languages, including Python, SQL, Java, Assembly, C/C++, Prolog, and Scheme. Currently, I'm focusing on advancing my skills in Python, SQL, and R, while also delving deeper into Data and Business Analytics. As a passionate lifelong learner, I thrive on the challenge of mastering new technologies and methodologies. I'm constantly seeking opportunities to expand my knowledge and apply cutting-edge techniques to solve complex business problems. This drive keeps me at the forefront of the ever-evolving tech and analytics landscape.
+
 ### :medal_sports: Achievements 
 
 - :star: **Dean's List Recipient** - With a GPA of 3.78
 
-- :star: **Honor Society Member** - National Society of Collegiate Scholars - Mar 2019 - Present
+- :star: **Honor Society Member** - National Society of Collegiate Scholars - March 2019 - Present
 
-- :star: **Cybersecurity Certificate** - Fortinet, FCF - Introduction to the Threat Landscape - Issued Oct 2023 - Expires Oct 2025
+- :star: **Cybersecurity Certificates** -
+
+  Fortinet, FCF - Introduction to the Threat Landscape - Issued October 2023 - Expires October 2025
+
+  Securiti, PrivacyOps - Data privacy laws, concepts, and PrivacyOps - Issued February 2024 - Expires February 2026
 
 ### :rainbow: Clubs 
 
-- :hibiscus: Treasurer and participant with Derby Devils at ASU - Aug 2021 - Dec 2021
+- :hibiscus: Treasurer and participant with Derby Devils at ASU - August 2021 - December 2021
   
-- :hibiscus: Participant with Entomology Bugs At ASU - Jan 2020 - May 2020
+- :hibiscus: Participant with Entomology Bugs At ASU - January 2020 - May 2020
